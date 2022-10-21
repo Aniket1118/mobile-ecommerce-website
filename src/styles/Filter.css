@@ -1,0 +1,128 @@
+@font-face {
+  font-family: Gilroy;
+  src: url(../fonts/Gilroy\ Font/Gilroy-Regular.ttf);
+}
+@font-face {
+  font-family: Gilroy-Bold;
+  src: url(../fonts/Gilroy\ Font/Gilroy-Bold.ttf);
+}
+.filterBox{
+  display: inline-block;
+    width: 240px;
+    height: 394px;
+    border: 2px solid ;
+    border: none;
+    margin-left: 140px;
+    margin-right: 8px;
+    /* margin-top: 25px; */
+    border-radius: 8px;
+    background: #FFFFFF;
+}
+.brands{
+font-family: Gilroy-Bold;
+}
+.viewall{
+  font-family: Gilroy-Bold;
+}
+.oneLine{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    background: #FFFFFF;
+}
+.left{
+    margin-left: 20px;
+    font-size: 14px;
+    /* line-height: 34px; */
+    color: #1E2228;
+    background: #FFFFFF;
+    
+}
+label{
+  background: #FFFFFF;
+}
+.right{
+    margin-right: 20px;
+    font-size: 14px;
+    color: #939599;
+    background: #FFFFFF;
+}
+.companyNameLine{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background: #FFFFFF;  
+}
+hr {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E9E9E9;
+    height: 1.5px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 24px;
+  }
+  .price{
+    font-size: 14px;
+   line-height: 16px;
+   color: #1E2228;
+   background: #FFFFFF;
+   font-family: Gilroy-Bold;
+
+  }
+  .pricerange{
+    font-family: 'Gilroy-Bold';
+/* font-style: normal; */
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+color: #1E2228;
+background: #FFFFFF;
+
+  }
+  #slidercomp{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: auto;
+    padding-bottom: 5px;
+    color: #21C17A;
+    background: #FFFFFF;
+  }
+  .lastLine{
+    display: flex;
+    justify-content: space-between;
+    background: #FFFFFF;
+  }
+
+  .viewall{
+    color:  #FF2C91;
+    font-size: 12px;
+    line-height: 14px;
+    background: #FFFFFF;
+  }
+  .range{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+color: #939599;
+background: #FFFFFF;
+  }
+  .FCspan{
+    background-color: #FFFFFF;
+  }
+
+  @media only screen and (max-width: 820px) {
+   .filterBox{
+    display: none;
+   }
+    
+ }
+ @media only screen and (max-width: 480px) {
+  .filterBox{
+    display: none;
+   }
+}
