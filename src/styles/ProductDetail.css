@@ -24,6 +24,7 @@ display: flex;
 align-items: center;
 /* justify-content: space-evenly; */
 background: #FFFFFF;    
+padding: 5px;
 }
 .PDviewDifferentImages{
     /* width: 100px;
@@ -98,6 +99,7 @@ opacity:1;
     margin-top: 85px;
     display: flex;
     flex-direction: column;
+    padding: 4px;
 }
 .PDmobileName{ 
     width: 100%;  
@@ -368,6 +370,7 @@ bottom: 235px;
         order: 2;
         margin: 0;
         width: 100%;
+        padding: 4px;
     }
 
     .PDsharebtn{
@@ -395,6 +398,8 @@ bottom: 235px;
     }
     .PDviewDifferentImages {
         width: 100%;
+        padding: 2px;
+        margin-right: 6px;
     }
 
     .PDallInfoAboutMobile{

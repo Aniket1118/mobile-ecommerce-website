@@ -1,0 +1,502 @@
+
+
+
+.nav{
+    height: 80px;
+    width: 100%;
+    background-color: blue;
+}
+
+.OPorderInfo{
+    display: inline-block;
+    width: 800px;
+    height: 500px;   
+    background: #FFFFFF;
+    border-radius: 8px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+
+.testing{
+    height: 400px;
+    width: 400px;
+    background-color: skyblue;
+}
+.OPup{
+    background-color: #FFFFFF;
+    padding-top: 46px;
+    padding-left: 56.8px;
+}
+.OPsucessTick{
+    width: 40px;
+height: 40px;
+background: #FFFFFF;
+margin-bottom: 10px;
+}
+.OPInfos{
+    margin-left: 60px;
+    margin-bottom: 0px;
+}
+
+
+.OPline1{
+    
+font-family: 'Gilroy-Bold';
+font-size: 20px;
+line-height: 23px;
+color: #21C17A;
+background: #FFFFFF;
+margin: 0px;
+margin-bottom: 5px;
+}
+.OPline2{   
+font-family: 'Gilroy-Bold';
+font-size: 25px;
+line-height: 38px;
+color: #1E2228;
+background: #FFFFFF;
+margin: 0px;
+}
+
+.OPvoline{
+    
+    font-family: 'Gilroy-Medium';
+    font-size: 14px;
+    line-height: 16px;
+    background: #FFFFFF;
+    margin-bottom: 10px;
+    }
+    .OPdot{
+        height: 4px;
+        width: 4px;
+        background:#FFFFFF;
+    }
+    .OPorderdiv{
+        display: inline-block;
+        margin-right: 10px;
+        background: #FFFFFF;
+    }
+    .OPdateDiv{
+        display: inline-block;
+        margin-right: 10px;
+    }
+    .OPnextLine{
+        display: inline-block;
+        background: #FFFFFF;
+    }
+    .OPPaymentDiv{
+        display: inline-block;
+        background: #FFFFFF;
+    }
+    .OPpaySpan{
+        display: none;
+    }
+
+.OPorderNo{ 
+font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+color: #1E2228;
+margin-right: 10px;
+background: #FFFFFF;
+}
+.OPorderNum{
+    font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+color: #1E2228;
+margin-right: 10px;
+background: #FFFFFF;
+}
+
+.OPdot{
+margin-bottom: 3px;
+background: #FFFFFF;
+margin-right: 14px;
+}
+.OPwrapper1{
+    background: #FFFFFF;
+    display: inline-block;
+}
+.OPwrapper2{
+    background: #FFFFFF;
+    display: inline-block;
+}
+.OPdate{
+font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+color: #1E2228;
+margin: 0px 10px;
+background: #FFFFFF;
+}
+.OPdateAndYear{
+    font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+color: #1E2228;
+/* margin: 0px 10px; */
+background: #FFFFFF;
+margin-right: 14px;
+}
+.OPpayment{
+    display: none;
+}
+.OPcod{  
+font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 16px;
+color: #1E2228;
+background: #FFFFFF;
+margin-left: 10px;
+}
+
+.OPdown{
+    display: flex;
+    padding-left: 50px;
+    background: #FFFFFF;
+}
+.OPnumberOfItems{
+font-family: 'Gilroy-Bold';
+font-size: 14px;
+line-height: 16px;
+color: #1E2228;
+background: #FFFFFF;
+padding-left: 60px;
+}
+.OPleft{
+    height: 120px;
+    width: 50%;
+    display: flex;
+    background: #FFFFFF;
+   
+}
+.OPright{
+    height: 120px;
+    width: 50%;
+    display: flex;
+    background: #FFFFFF;
+}
+.OPsmallImgContainer{
+    box-sizing: border-box;
+width: 80px;
+height: 80px;
+background: #FEFEFE;
+border: 1px solid #E9E9E9;
+border-radius: 12px;
+text-align: center; 
+margin-left: 10px;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-right: 20px;
+padding-top: 7px;
+
+}
+.OPsmallImg{
+    height: 60px;
+    width: 40px;
+    background: #FFFFFF;
+}
+.OPrightDiv{
+    display: inline-block;
+    height: 600px;
+  width: 280px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 80px;
+    border-radius: 10px;   
+}
+
+.OPdelieverTo{
+    width: 220px;
+    height: 121px;
+    display: inline-block;
+    background-color: #FFFFFF; 
+    margin-bottom: 5px;
+    padding: 7px;
+    border-radius: 12px;
+}
+.OPbillDetails{
+    width: 220px;
+    height: auto;
+    background-color: #FFFFFF;
+    padding: 7px;
+    border-radius: 12px;
+}
+.OPbtnRow{
+    text-align: center;
+    display: none;
+}
+/* .OPbillDetailBtn{
+    display: none;
+} */
+.OPdeviceName{
+    font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 20px;
+color: #1E2228;
+background: #FFFFFF;
+padding-right: 15px;
+}
+.OPmobilecolor{
+font-family: 'Gilroy-Medium';
+font-size: 12px;
+line-height: 14px;
+color: #939599;
+background: #FFFFFF;
+}
+.OPmobilePrice{    
+font-family: 'Gilroy-Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #1E2228;
+background: #FFFFFF;
+}
+.OPlastrow{
+    background: #FFFFFF;
+    padding-left: 60px;
+}
+.OPbtn{
+    background: #FF2C91;
+border: 1px solid #FF2C91;
+border-radius: 6px;
+width: 244px;
+height: 56px;
+}
+.OPbtntext{
+    font-family: 'Gilroy-Bold';
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+background: #FF2C91;
+color: #FFFFFF;
+}
+.OPspanDeliever{
+    
+font-family: 'Gilroy-Bold';
+font-size: 16px;
+line-height: 19px;
+color: #231F20;
+background-color: #FFFFFF;
+margin-bottom: 10px;
+}
+.OPnameOfBuyer{
+font-family: 'Gilroy-Bold';
+font-size: 12px;
+line-height: 14px;
+color: #1E2228;
+margin-bottom: 4px;
+background: #FFFFFF;
+}
+.OPbuyerAddress{
+font-family: 'Gilroy-Medium';
+font-size: 12px;
+line-height: 17px;
+color: #1E2228;
+background: #FFFFFF;
+}
+.OPlines{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 120%;
+color: #231F20;
+padding: 3px;
+background-color: #FFFFFF;
+}
+.OPitem{
+font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 120%;
+text-decoration-line: underline;
+color: #7F8386;
+}
+.OPspanTotal{
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 120%;
+color: #231F20;
+}
+span{
+    background-color: #FFFFFF;
+}
+hr{
+    margin-bottom: 12px;
+}
+
+
+
+@media only screen and (max-width: 821px) {
+*{
+    /* background-color: red; */
+}
+.OPorderInfo{
+    display: block;
+    margin: 0px;
+    width: 100vw;
+    height: auto;
+    padding-top: 40px;
+}
+.OPdeviceName{
+  width: auto;
+}
+.OPup{
+    padding: 0px;
+    text-align: center;
+}
+.OPlastrow{
+    display: none;
+}
+.OPdown{
+    flex-direction: column;
+}
+.OPleft{
+    width: 100%;
+    padding-right: 9px;
+}
+.OPright{
+    width: 100%;
+}
+
+.OPrightDiv{
+    margin-left: 0px;
+    width: 100vw;
+    background: white;
+    position: static;
+    display: flex;
+   justify-content: space-evenly;
+}
+.OPbillDetails{
+    height: 200px;
+    border: 1px solid black;
+    margin-right: 20px;
+}
+.OPdelieverTo{
+    border: 1px solid black;
+}
+.OPbtnRow{
+    display: block;
+    background-color: #FFFFFF;
+}
+.OPbillDetailBtn{
+    background: #FF2C91;
+border: 1px solid #FF2C91;
+border-radius: 6px;
+width: 156px;
+height: 50px;   
+} 
+
+}  
+
+
+@media only screen and (max-width: 450px) {
+
+    .OPline1{
+        font-size: 20px;
+line-height: 23px;
+    }
+    .OPline2{
+        font-size: 16px;
+line-height: 19px;
+    }
+    .OPorderdiv{
+        display: block;
+        margin-bottom: 5px;
+        margin-right: 0px;
+        padding-left: 15px;
+    }
+    .OPorderNo{
+        display: block;
+        font-size: 14px;
+line-height: 23px;
+color: #7F8386;
+    }
+    .OPorderNum{
+        display: block;
+    }
+.OPnextLine{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+    .OPdateDiv{
+        display: inline-block;
+        width: 100px;
+    }
+    .OPdatespan{
+        display: block;
+        font-size: 14px;
+line-height: 23px;
+color: #7F8386;
+    }
+    .OPdateNum{
+        display: block;
+    }
+    .OPpaySpan{
+        display: block;
+        font-size: 14px;
+line-height: 23px;
+color: #7F8386;
+    }
+
+
+    .OPorderInfo{
+        width: 99vw;
+    }
+
+.OPrightDiv{
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 98vw;
+  
+}
+.OPInfos{
+    margin-left: 0px;
+}
+
+.OPdown{
+    padding-left: 5px;
+}
+.OPsmallImgContainer {
+width: 120px;
+}
+.OPdelieverTo{
+    width: 90%;
+    padding-right: 5px;
+    margin-left: 10px;
+    height: auto;
+}
+.OPbillDetails{
+    width: 90%;
+    margin-left: 10px;
+}
+.OPcod{
+    margin-left: 0px;
+    margin-right: 5px;
+}
+.OPdot{
+    display: none;
+}
+.OPnumberOfItems{
+    padding-left: 20px;
+}
+
+
+}
+
+.testing{
+    width: 100%;
+    height: 500px;
+}
